@@ -52,6 +52,7 @@ int main(void) {
                 // Quit
                 cout << "Have a nice day!" << endl;
                 loop = 0;
+                break;
             default:
                 cout << "Please enter one of the numbers listed next to the menu choices!" << endl;
         }
