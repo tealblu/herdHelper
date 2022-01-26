@@ -1,0 +1,5 @@
+Herd helper notes
+
+Process:
+1. Make Herd
+2. Main menu (Attack, Damage, Heal, roll dice)
