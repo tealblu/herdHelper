@@ -7,7 +7,7 @@ int main(void) {
     // Intro message
     cout << "Welcome to Herd Helper!" << endl;
     cout << "Please read the ReadMe if you don't know how to use this." << endl;
-    cout << "This game is NOT D&D, it is designed to be used WITH D&D." << endl;
+    cout << "This tool was designed by Charles K. Hartsell III in 2021." << endl;
     cout << "Have fun!" << endl << endl << endl;
 
     // Create the herd
@@ -52,6 +52,7 @@ int main(void) {
                 // Quit
                 cout << "Have a nice day!" << endl;
                 loop = 0;
+                break;
             default:
                 cout << "Please enter one of the numbers listed next to the menu choices!" << endl;
         }
